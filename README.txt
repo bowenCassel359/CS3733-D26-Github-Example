@@ -1,6 +1,9 @@
 npm install -D express
 npm install -D path
 
+### enviroment
+npm install -D dotenv
+
 npm start
 
 TO DO:
